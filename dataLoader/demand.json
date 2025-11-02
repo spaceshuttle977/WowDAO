@@ -1,0 +1,872 @@
+[
+ {
+   "date": "2010-01-31",
+   "demand": 100,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-02-28",
+   "demand": 64,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-03-31",
+   "demand": 65,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-04-30",
+   "demand": 69,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-05-31",
+   "demand": 59,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-06-30",
+   "demand": 79,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-07-31",
+   "demand": 65,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-08-31",
+   "demand": 70,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-09-30",
+   "demand": 59,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-10-31",
+   "demand": 53,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-11-30",
+   "demand": 48,
+   "demandForecast": ""
+ },
+ {
+   "date": "2010-12-31",
+   "demand": 67,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-01-31",
+   "demand": 46,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-02-28",
+   "demand": 42,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-03-31",
+   "demand": 94,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-04-30",
+   "demand": 78,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-05-31",
+   "demand": 70,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-06-30",
+   "demand": 77,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-07-31",
+   "demand": 44,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-08-31",
+   "demand": 49,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-09-30",
+   "demand": 60,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-10-31",
+   "demand": 74,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-11-30",
+   "demand": 56,
+   "demandForecast": ""
+ },
+ {
+   "date": "2011-12-31",
+   "demand": 98,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-01-31",
+   "demand": 73,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-02-29",
+   "demand": 82,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-03-31",
+   "demand": 52,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-04-30",
+   "demand": 56,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-05-31",
+   "demand": 64,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-06-30",
+   "demand": 38,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-07-31",
+   "demand": 34,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-08-31",
+   "demand": 49,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-09-30",
+   "demand": 48,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-10-31",
+   "demand": 79,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-11-30",
+   "demand": 73,
+   "demandForecast": ""
+ },
+ {
+   "date": "2012-12-31",
+   "demand": 43,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-01-31",
+   "demand": 65,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-02-28",
+   "demand": 64,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-03-31",
+   "demand": 70,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-04-30",
+   "demand": 49,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-05-31",
+   "demand": 51,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-06-30",
+   "demand": 53,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-07-31",
+   "demand": 50,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-08-31",
+   "demand": 63,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-09-30",
+   "demand": 65,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-10-31",
+   "demand": 62,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-11-30",
+   "demand": 45,
+   "demandForecast": ""
+ },
+ {
+   "date": "2013-12-31",
+   "demand": 66,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-01-31",
+   "demand": 63,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-02-28",
+   "demand": 64,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-03-31",
+   "demand": 62,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-04-30",
+   "demand": 63,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-05-31",
+   "demand": 59,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-06-30",
+   "demand": 37,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-07-31",
+   "demand": 42,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-08-31",
+   "demand": 68,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-09-30",
+   "demand": 68,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-10-31",
+   "demand": 67,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-11-30",
+   "demand": 56,
+   "demandForecast": ""
+ },
+ {
+   "date": "2014-12-31",
+   "demand": 49,
+   "demandForecast": ""
+ },
+ {
+   "date": "2015-01-31",
+   "demand": 46,
+   "demandForecast": "56.31010818481445"
+ },
+ {
+   "date": "2015-02-28",
+   "demand": 57,
+   "demandForecast": "54.985103607177734"
+ },
+ {
+   "date": "2015-03-31",
+   "demand": 45,
+   "demandForecast": "54.93772506713867"
+ },
+ {
+   "date": "2015-04-30",
+   "demand": 65,
+   "demandForecast": "54.742156982421875"
+ },
+ {
+   "date": "2015-05-31",
+   "demand": 55,
+   "demandForecast": "54.49875259399414"
+ },
+ {
+   "date": "2015-06-30",
+   "demand": 55,
+   "demandForecast": "56.7841911315918"
+ },
+ {
+   "date": "2015-07-31",
+   "demand": 59,
+   "demandForecast": "58.57160568237305"
+ },
+ {
+   "date": "2015-08-31",
+   "demand": 56,
+   "demandForecast": "56.68049240112305"
+ },
+ {
+   "date": "2015-09-30",
+   "demand": 65,
+   "demandForecast": "55.70790100097656"
+ },
+ {
+   "date": "2015-10-31",
+   "demand": 62,
+   "demandForecast": "55.332313537597656"
+ },
+ {
+   "date": "2015-11-30",
+   "demand": 67,
+   "demandForecast": "55.038909912109375"
+ },
+ {
+   "date": "2015-12-31",
+   "demand": 48,
+   "demandForecast": "55.086639404296875"
+ },
+ {
+   "date": "2016-01-31",
+   "demand": 44,
+   "demandForecast": "54.772090911865234"
+ },
+ {
+   "date": "2016-02-29",
+   "demand": 65,
+   "demandForecast": "55.50879669189453"
+ },
+ {
+   "date": "2016-03-31",
+   "demand": 39,
+   "demandForecast": "55.01621627807617"
+ },
+ {
+   "date": "2016-04-30",
+   "demand": 52,
+   "demandForecast": "55.235233306884766"
+ },
+ {
+   "date": "2016-05-31",
+   "demand": 41,
+   "demandForecast": "55.606536865234375"
+ },
+ {
+   "date": "2016-06-30",
+   "demand": 38,
+   "demandForecast": "55.553375244140625"
+ },
+ {
+   "date": "2016-07-31",
+   "demand": 46,
+   "demandForecast": "54.36674118041992"
+ },
+ {
+   "date": "2016-08-31",
+   "demand": 32,
+   "demandForecast": "54.880828857421875"
+ },
+ {
+   "date": "2016-09-30",
+   "demand": 71,
+   "demandForecast": "54.4977912902832"
+ },
+ {
+   "date": "2016-10-31",
+   "demand": 55,
+   "demandForecast": "56.90713882446289"
+ },
+ {
+   "date": "2016-11-30",
+   "demand": 49,
+   "demandForecast": "54.230316162109375"
+ },
+ {
+   "date": "2016-12-31",
+   "demand": 63,
+   "demandForecast": "52.848114013671875"
+ },
+ {
+   "date": "2017-01-31",
+   "demand": 58,
+   "demandForecast": "55.87253189086914"
+ },
+ {
+   "date": "2017-02-28",
+   "demand": 63,
+   "demandForecast": "56.660865783691406"
+ },
+ {
+   "date": "2017-03-31",
+   "demand": 43,
+   "demandForecast": "58.301239013671875"
+ },
+ {
+   "date": "2017-04-30",
+   "demand": 56,
+   "demandForecast": "59.03417205810547"
+ },
+ {
+   "date": "2017-05-31",
+   "demand": 58,
+   "demandForecast": "56.721031188964844"
+ },
+ {
+   "date": "2017-06-30",
+   "demand": 41,
+   "demandForecast": "56.1740608215332"
+ },
+ {
+   "date": "2017-07-31",
+   "demand": 37,
+   "demandForecast": "54.43339157104492"
+ },
+ {
+   "date": "2017-08-31",
+   "demand": 45,
+   "demandForecast": "55.19965744018555"
+ },
+ {
+   "date": "2017-09-30",
+   "demand": 72,
+   "demandForecast": "57.53043746948242"
+ },
+ {
+   "date": "2017-10-31",
+   "demand": 70,
+   "demandForecast": "59.527008056640625"
+ },
+ {
+   "date": "2017-11-30",
+   "demand": 65,
+   "demandForecast": "60.088871002197266"
+ },
+ {
+   "date": "2017-12-31",
+   "demand": 51,
+   "demandForecast": "55.97400665283203"
+ },
+ {
+   "date": "2018-01-31",
+   "demand": 61,
+   "demandForecast": "54.70392608642578"
+ },
+ {
+   "date": "2018-02-28",
+   "demand": 65,
+   "demandForecast": "57.86484909057617"
+ },
+ {
+   "date": "2018-03-31",
+   "demand": 54,
+   "demandForecast": "59.31377410888672"
+ },
+ {
+   "date": "2018-04-30",
+   "demand": 53,
+   "demandForecast": "59.8679313659668"
+ },
+ {
+   "date": "2018-05-31",
+   "demand": 40,
+   "demandForecast": "60.12482452392578"
+ },
+ {
+   "date": "2018-06-30",
+   "demand": 30,
+   "demandForecast": "60.42927932739258"
+ },
+ {
+   "date": "2018-07-31",
+   "demand": 50,
+   "demandForecast": "60.64593505859375"
+ },
+ {
+   "date": "2018-08-31",
+   "demand": 55,
+   "demandForecast": "60.53292465209961"
+ },
+ {
+   "date": "2018-09-30",
+   "demand": 52,
+   "demandForecast": "60.37917709350586"
+ },
+ {
+   "date": "2018-10-31",
+   "demand": 50,
+   "demandForecast": "59.60761260986328"
+ },
+ {
+   "date": "2018-11-30",
+   "demand": 58,
+   "demandForecast": "60.258304595947266"
+ },
+ {
+   "date": "2018-12-31",
+   "demand": 38,
+   "demandForecast": "60.007259368896484"
+ },
+ {
+   "date": "2019-01-31",
+   "demand": 66,
+   "demandForecast": "59.29383087158203"
+ },
+ {
+   "date": "2019-02-28",
+   "demand": 59,
+   "demandForecast": "57.87075424194336"
+ },
+ {
+   "date": "2019-03-31",
+   "demand": 50,
+   "demandForecast": "56.7575569152832"
+ },
+ {
+   "date": "2019-04-30",
+   "demand": 48,
+   "demandForecast": "57.85481262207031"
+ },
+ {
+   "date": "2019-05-31",
+   "demand": 33,
+   "demandForecast": "58.39295959472656"
+ },
+ {
+   "date": "2019-06-30",
+   "demand": 51,
+   "demandForecast": "58.28857421875"
+ },
+ {
+   "date": "2019-07-31",
+   "demand": 48,
+   "demandForecast": "57.44623947143555"
+ },
+ {
+   "date": "2019-08-31",
+   "demand": 40,
+   "demandForecast": "58.07952117919922"
+ },
+ {
+   "date": "2019-09-30",
+   "demand": 35,
+   "demandForecast": "58.43355941772461"
+ },
+ {
+   "date": "2019-10-31",
+   "demand": 52,
+   "demandForecast": "54.14998245239258"
+ },
+ {
+   "date": "2019-11-30",
+   "demand": 49,
+   "demandForecast": "56.23085021972656"
+ },
+ {
+   "date": "2019-12-31",
+   "demand": 46,
+   "demandForecast": "56.57902908325195"
+ },
+ {
+   "date": "2020-01-31",
+   "demand": 79,
+   "demandForecast": "56.46429443359375"
+ },
+ {
+   "date": "2020-02-29",
+   "demand": 41,
+   "demandForecast": "58.10934066772461"
+ },
+ {
+   "date": "2020-03-31",
+   "demand": 42,
+   "demandForecast": "58.15776062011719"
+ },
+ {
+   "date": "2020-04-30",
+   "demand": 49,
+   "demandForecast": "58.1241340637207"
+ },
+ {
+   "date": "2020-05-31",
+   "demand": 43,
+   "demandForecast": "55.87509536743164"
+ },
+ {
+   "date": "2020-06-30",
+   "demand": 40,
+   "demandForecast": "56.808712005615234"
+ },
+ {
+   "date": "2020-07-31",
+   "demand": 42,
+   "demandForecast": "57.09674072265625"
+ },
+ {
+   "date": "2020-08-31",
+   "demand": 55,
+   "demandForecast": "57.34127426147461"
+ },
+ {
+   "date": "2020-09-30",
+   "demand": 50,
+   "demandForecast": "55.77133560180664"
+ },
+ {
+   "date": "2020-10-31",
+   "demand": 41,
+   "demandForecast": "55.412540435791016"
+ },
+ {
+   "date": "2020-11-30",
+   "demand": 38,
+   "demandForecast": "54.6751823425293"
+ },
+ {
+   "date": "2020-12-31",
+   "demand": 34,
+   "demandForecast": "53.667572021484375"
+ },
+ {
+   "date": "2021-01-31",
+   "demand": 39,
+   "demandForecast": "53.766090393066406"
+ },
+ {
+   "date": "2021-02-28",
+   "demand": 34,
+   "demandForecast": "56.41395568847656"
+ },
+ {
+   "date": "2021-03-31",
+   "demand": 36,
+   "demandForecast": "58.20924377441406"
+ },
+ {
+   "date": "2021-04-30",
+   "demand": 35,
+   "demandForecast": "58.6822509765625"
+ },
+ {
+   "date": "2021-05-31",
+   "demand": 23,
+   "demandForecast": "56.18477249145508"
+ },
+ {
+   "date": "2021-06-30",
+   "demand": 49,
+   "demandForecast": "54.772865295410156"
+ },
+ {
+   "date": "2021-07-31",
+   "demand": 39,
+   "demandForecast": "53.590518951416016"
+ },
+ {
+   "date": "2021-08-31",
+   "demand": 32,
+   "demandForecast": "54.0128173828125"
+ },
+ {
+   "date": "2021-09-30",
+   "demand": 46,
+   "demandForecast": "56.82758712768555"
+ },
+ {
+   "date": "2021-10-31",
+   "demand": 42,
+   "demandForecast": "57.85657501220703"
+ },
+ {
+   "date": "2021-11-30",
+   "demand": 56,
+   "demandForecast": "59.174766540527344"
+ },
+ {
+   "date": "2021-12-31",
+   "demand": 47,
+   "demandForecast": "59.1863899230957"
+ },
+ {
+   "date": "2022-01-31",
+   "demand": 54,
+   "demandForecast": "59.67179489135742"
+ },
+ {
+   "date": "2022-02-28",
+   "demand": 35,
+   "demandForecast": "59.722137451171875"
+ },
+ {
+   "date": "2022-03-31",
+   "demand": 51,
+   "demandForecast": "59.785518646240234"
+ },
+ {
+   "date": "2022-04-30",
+   "demand": 53,
+   "demandForecast": "59.73027038574219"
+ },
+ {
+   "date": "2022-05-31",
+   "demand": 59,
+   "demandForecast": "59.26860046386719"
+ },
+ {
+   "date": "2022-06-30",
+   "demand": 36,
+   "demandForecast": "59.678855895996094"
+ },
+ {
+   "date": "2022-07-31",
+   "demand": 43,
+   "demandForecast": "59.369529724121094"
+ },
+ {
+   "date": "2022-08-31",
+   "demand": 36,
+   "demandForecast": "59.008033752441406"
+ },
+ {
+   "date": "2022-09-30",
+   "demand": 47,
+   "demandForecast": "57.59028244018555"
+ },
+ {
+   "date": "2022-10-31",
+   "demand": 53,
+   "demandForecast": "56.39980697631836"
+ },
+ {
+   "date": "2022-11-30",
+   "demand": 50,
+   "demandForecast": "57.55146408081055"
+ },
+ {
+   "date": "2022-12-31",
+   "demand": 35,
+   "demandForecast": "58.08757019042969"
+ },
+ {
+   "date": "2023-01-31",
+   "demand": 60,
+   "demandForecast": "58.00516128540039"
+ },
+ {
+   "date": "2023-02-28",
+   "demand": 65,
+   "demandForecast": "57.248451232910156"
+ },
+ {
+   "date": "2023-03-31",
+   "demand": 40,
+   "demandForecast": "57.70429611206055"
+ },
+ {
+   "date": "2023-04-30",
+   "demand": 33,
+   "demandForecast": "58.07545471191406"
+ },
+ {
+   "date": "2023-05-31",
+   "demand": 42,
+   "demandForecast": "54.09998321533203"
+ },
+ {
+   "date": "2023-06-30",
+   "demand": 43,
+   "demandForecast": "56.03403854370117"
+ },
+ {
+   "date": "2023-07-31",
+   "demand": null,
+   "demandForecast": "56.36068344116211"
+ },
+ {
+   "date": "2023-08-31",
+   "demand": null,
+   "demandForecast": "55.71784591674805"
+ },
+ {
+   "date": "2023-09-30",
+   "demand": null,
+   "demandForecast": "55.58391571044922"
+ },
+ {
+   "date": "2023-10-31",
+   "demand": null,
+   "demandForecast": "55.55827713012695"
+ },
+ {
+   "date": "2023-11-30",
+   "demand": null,
+   "demandForecast": "55.55857849121094"
+ },
+ {
+   "date": "2023-12-31",
+   "demand": null,
+   "demandForecast": "55.56390380859375"
+ },
+ {
+   "date": "2024-01-31",
+   "demand": null,
+   "demandForecast": "55.569828033447266"
+ },
+ {
+   "date": "2024-02-29",
+   "demand": null,
+   "demandForecast": "55.5746955871582"
+ },
+ {
+   "date": "2024-03-31",
+   "demand": null,
+   "demandForecast": "55.58422088623047"
+ },
+ {
+   "date": "2024-04-30",
+   "demand": null,
+   "demandForecast": "55.602760314941406"
+ },
+ {
+   "date": "2024-05-31",
+   "demand": null,
+   "demandForecast": "55.620723724365234"
+ },
+ {
+   "date": "2024-06-30",
+   "demand": null,
+   "demandForecast": "55.63619613647461"
+ }
+]
