@@ -2,6 +2,9 @@
 
 This repository contains code developed by **JELLYSPACE** during the WowDAO Competition 2023, where the project won **1st place** in the Synthetic Data Applications category.
 
+🎥 Watch the official announcement of the winners here:  
+[👉 WowDAO Competition 2023 – JELLYSPACE Wins in Synthetic Data Applications](https://www.youtube.com/watch?v=xYgJgl-xBfE)
+
 ## ⚙️ Ownership and Usage Rights
 
 All source code and associated materials in this repository are the intellectual property of **JELLYSPACE**.
